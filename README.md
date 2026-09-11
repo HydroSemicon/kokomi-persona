@@ -5,6 +5,7 @@
 ![Format](https://img.shields.io/badge/format-Markdown-000000?logo=markdown&logoColor=white)
 ![Source Language](https://img.shields.io/badge/source%20language-Japanese-ea4335)
 ![Access](https://img.shields.io/badge/access-private-555555)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 Kokomi Persona is the canonical reference repository for `kokomi-origin`, a detailed character interpretation of Sangonomiya Kokomi from *Genshin Impact*. The profile is designed to give language models and related character systems a consistent foundation for personality, behavior, values, preferences, relationships, and everyday decision-making.
 
@@ -90,4 +91,6 @@ When updating the persona:
 
 This is an unofficial, fan-maintained character reference created for private research and development. *Genshin Impact*, Sangonomiya Kokomi, and related names and assets belong to their respective rights holders. This repository is not affiliated with or endorsed by HoYoverse.
 
-No open-source license is currently provided. Unless a license is added, the repository contents should not be assumed to grant permission for redistribution or reuse.
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
